@@ -32,4 +32,4 @@ nginx-docker-aws-deployment/
 │── README.md            # Project documentation  
 │── website/             # Static website files  
 │── screenshots/         # Project images  
-└── docker-compose.yml   # (Optional) Docker Compose configuration
+└─
